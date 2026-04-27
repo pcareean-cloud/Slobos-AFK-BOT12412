@@ -8,7 +8,7 @@
   "server": {
     "ip": "appletree-Mp6M.aternos.me",
     "port": 12331,
-    "version": "26.1.1"
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
